@@ -10,6 +10,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B8FF&center=true&vCenter=true&width=700&lines=discord+bot+developer;web+developer;javascript+%7C+html+%7C+css;building+clean+projects+that+work" alt="Typing SVG" />
 
+### [CEO of Vixen Hosting](https://vixenhosting.com/)
+
+<sub>Discord Bots • Web Projects • Roblox Studio</sub>
+
 </div>
 
 ```txt
